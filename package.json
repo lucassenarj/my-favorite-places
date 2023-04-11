@@ -1,0 +1,10 @@
+{
+  "name": "my-favorite-places",
+  "version": "0.0.1",
+  "description": "My Favorite Places Monorepo",
+  "main": "index.js",
+  "repository": "https://github.com/lucassenarj/my-favorite-places.git",
+  "author": "Lucas Sena",
+  "license": "MIT",
+  "private": true
+}
