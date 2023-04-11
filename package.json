@@ -6,5 +6,12 @@
   "repository": "https://github.com/lucassenarj/my-favorite-places.git",
   "author": "Lucas Sena",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "api",
+      "mobile",
+      "web"
+    ]
+  }
 }

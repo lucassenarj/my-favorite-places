@@ -1,0 +1,9 @@
+{
+  "name": "@lucassenarj-mfp/mobile",
+  "version": "0.0.1",
+  "description": "My favorite places mobile",
+  "main": "index.js",
+  "author": "Lucas Sena",
+  "license": "MIT",
+  "private": true
+}

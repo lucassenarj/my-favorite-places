@@ -1,0 +1,9 @@
+{
+  "name": "@lucassenarj-mfp/web",
+  "version": "0.0.1",
+  "description": "My favorite places web",
+  "main": "index.js",
+  "author": "Lucas Sena",
+  "license": "MIT",
+  "private": true
+}

@@ -1,0 +1,9 @@
+{
+  "name": "@lucassenarj-mfp/api",
+  "version": "0.0.1",
+  "description": "My favorite places api",
+  "main": "index.js",
+  "author": "Lucas Sena",
+  "license": "MIT",
+  "private": true
+}
